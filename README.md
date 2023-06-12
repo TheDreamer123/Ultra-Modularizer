@@ -8,7 +8,7 @@
 **Because it's funny.**
 
 ## Can I download the application or do I have to compile it myself?
-**If you head over to [releases](), you can get an already compiled version of the program.**
+**If you head over to [releases](https://github.com/TheDreamer123/Ultra-Modularizer/releases/tag/windows-release), you can get an already compiled version of the program.**
 
 **If you'd rather compile it yourself, well... I assume you already know how. Just make sure when compiled, it uses C11 (`-std=c11` on gcc).**
 
