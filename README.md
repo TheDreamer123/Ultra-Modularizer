@@ -28,6 +28,6 @@ Anything that fits in the MIT license's permissions.
 # How do I use it?
 Easy! Open your terminal and type the following:
 
-`path/to/UltraModulizer.exe <file/to.separate>`
+`path/to/UltraModulizer <file/to.separate>`
 
 A folder with a similar name (`file/to.separate-M`) should be created on the same directory as the target file.
