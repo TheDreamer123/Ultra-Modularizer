@@ -1,7 +1,7 @@
 # Ultra Modularizer
 This is a simple, one file, C application that takes a file in, creates a folder corresponding to that file, inside that folder, creates x new files, each containing a single non-empty line from the original file and then deletes the original.
 
-Do **NOT** run it on a binary file, you will loose most if not all contents.
+Do **NOT** run it on binary or important files.
 
 ## How reliable is this?
 As reliable as a joke made in one hour can be.
@@ -18,7 +18,7 @@ If you would rather compile it yourself, well... I assume you already know how. 
 No, it does not.
 
 ## Does it work on X operating system?
-Windows and Linux (specifically Debian and Ubuntu distributions) are very likely to work.
+It is very likely to correctly run on Windows and Linux (specifically Debian and Ubuntu distributions).
 
 If you are curious whether it will run on a different operating system, you are free to try!
 
